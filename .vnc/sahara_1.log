@@ -1,0 +1,110 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.10.0 - built May  5 2020 05:22:55
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12006000, The X.Org Foundation
+
+
+Sun Feb 28 05:26:35 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 16001
+ vncext:      created VNC server for screen 0
+xrdb: Connection reset by peer
+xrdb: Can't open display ':1'
+Failed to connect to bus: $DBUS_SESSION_BUS_ADDRESS and $XDG_RUNTIME_DIR not defined (consider using --machine=<user>@.host --user to connect to bus of other user)
+dbus-update-activation-environment: error: unable to connect to D-Bus: Using X11 for dbus-daemon autolaunch was disabled at compile time, set your DBUS_SESSION_BUS_ADDRESS instead
+xsettingsd: Loaded 5 settings from /home/.xsettingsd
+
+Sun Feb 28 05:34:56 2021
+ Connections: accepted: 127.0.0.1::54778
+
+Sun Feb 28 05:34:57 2021
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sun Feb 28 05:34:58 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+xsettingsd: Created window 0x800001 on screen 0 with timestamp 3466671004
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+
+ERROR: openbox-xdg-autostart requires PyXDG to be installed
+
+Sun Feb 28 05:35:08 2021
+ VNCSConnST:  closing 127.0.0.1::54778: Clean disconnection
+ EncodeManager: Framebuffer updates: 69
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 351 rects, 2.91292 Mpixels
+ EncodeManager:            5.48438 KiB (1:2075.48 ratio)
+ EncodeManager:     Bitmap RLE: 98 rects, 80.854 kpixels
+ EncodeManager:                 3.03125 KiB (1:104.572 ratio)
+ EncodeManager:   Total: 449 rects, 2.99378 Mpixels
+ EncodeManager:          8.51562 KiB (1:1373.91 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 1.56948 Mpixels in / 1.45616 Mpixels out
+ ComparingUpdateTracker: (1:1.07782 ratio)
+
+Sun Feb 28 05:37:07 2021
+ Connections: accepted: 127.0.0.1::54796
+ SConnection: Client needs protocol version 3.7
+
+Sun Feb 28 05:37:08 2021
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sun Feb 28 05:37:09 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+ VNCSConnST:  FramebufferUpdateRequest 1435x867 at 0,0 exceeds framebuffer
+              1248x750
+
+Sun Feb 28 05:37:11 2021
+ VNCSConnST:  closing 127.0.0.1::54796: Clean disconnection
+ EncodeManager: Framebuffer updates: 2
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 8 rects, 2.17951 Mpixels
+ EncodeManager:            128 B (1:68110.6 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 630 pixels
+ EncodeManager:                  817 B (1:3.11383 ratio)
+ EncodeManager:   Total: 10 rects, 2.18014 Mpixels
+ EncodeManager:          945 B (1:9228.25 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sun Feb 28 05:44:06 2021
+ Connections: accepted: 127.0.0.1::54906
+
+Sun Feb 28 05:44:07 2021
+ SConnection: Client needs protocol version 3.7
+ VNCSConnST:  closing 127.0.0.1::54906: Clean disconnection
+ EncodeManager: Framebuffer updates: 0
+ EncodeManager:   Total: 0 rects, 0 pixels
+ EncodeManager:          0 B (1:-nan ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
